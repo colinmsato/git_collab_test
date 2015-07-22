@@ -9,3 +9,7 @@ end
 def subtract(x,y)
   x-y
 end
+
+def mod(x,y)
+  x%y
+end
